@@ -1,0 +1,6 @@
+C:\FontesGustavo\exercicioErico2\exercicioErico2\bin\Debug\exercicioErico2.exe.config
+C:\FontesGustavo\exercicioErico2\exercicioErico2\bin\Debug\exercicioErico2.exe
+C:\FontesGustavo\exercicioErico2\exercicioErico2\bin\Debug\exercicioErico2.pdb
+C:\FontesGustavo\exercicioErico2\exercicioErico2\obj\Debug\exercicioErico2.csprojResolveAssemblyReference.cache
+C:\FontesGustavo\exercicioErico2\exercicioErico2\obj\Debug\exercicioErico2.exe
+C:\FontesGustavo\exercicioErico2\exercicioErico2\obj\Debug\exercicioErico2.pdb
